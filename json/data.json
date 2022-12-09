@@ -1,0 +1,327 @@
+[
+    {
+        "id": "01",
+        "marca": "Asus",
+        "modelo": "B550E",
+        "caracteristica": "AM4",
+        "precio": "57000",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572541/verzall/img/motherboard/asus-strix-b550e-gaming-am4_xe7aeh.png"
+    },
+    {
+        "id": "02",
+        "marca": "Asus",
+        "modelo": "Prime B460",
+        "caracteristica": "AM4",
+        "precio": "36000",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572540/verzall/img/motherboard/asus-prime-b460ma-r21200_udgid0.png"
+    },
+    {
+        "id": "03",
+        "marca": "Asus",
+        "modelo": "Prime X570",
+        "caracteristica": "AM4",
+        "precio": "73000",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572541/verzall/img/motherboard/asus-prime-x570p-am4_afbpjb.png"
+    },
+    {
+        "id": "04",
+        "marca": "Asus",
+        "modelo": "Prime H510",
+        "caracteristica": "1200",
+        "precio": "57000",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572541/verzall/img/motherboard/asus-prime-h510me-1200_gmqbo7.png"
+    },
+    {
+        "id": "05",
+        "marca": "Gigabyte",
+        "modelo": "Udax Z690",
+        "caracteristica": "1700",
+        "precio": "98000",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572541/verzall/img/motherboard/gigabyte-z690-udax-ddr-lga1700_zwpkto.png"
+    },
+    {
+        "id": "06",
+        "marca": "Intel",
+        "modelo": "I3 10100F",
+        "caracteristica": "4.3 Ghz",
+        "precio": "38000",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572548/verzall/img/procesadores/i3-10100F_kelsij.png"
+    },
+    {
+        "id": "07",
+        "marca": "Intel",
+        "modelo": "I5 10400",
+        "caracteristica": "4.2 Ghz",
+        "precio": "53000",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572549/verzall/img/procesadores/i5-10400_wqne5h.png"
+    },
+    {
+        "id": "08",
+        "marca": "Intel",
+        "modelo": "I7 9700F",
+        "caracteristica": "4.8 Ghz",
+        "precio": "71500",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572549/verzall/img/procesadores/i7-9700f_emr3om.png"
+    },
+    {
+        "id": "09",
+        "marca": "AMD",
+        "modelo": "RYZEN 3 PRO 4350G",
+        "caracteristica": "4.0 Ghz",
+        "precio": "29800",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572549/verzall/img/procesadores/ryzen3-4350g_vts1uk.png"
+    },
+    {
+        "id": "10",
+        "marca": "AMD",
+        "modelo": "RYZEN 5 5600G",
+        "caracteristica": "4.4 Ghz",
+        "precio": "43500",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572550/verzall/img/procesadores/ryzen5-5600g_qwyuib.png"
+    },
+    {
+        "id": "11",
+        "marca": "AMD",
+        "modelo": "RYZEN 9 5900x",
+        "caracteristica": "4.8 Ghz",
+        "precio": "119700",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572552/verzall/img/procesadores/ryzen9-5900x_t31d4f.png"
+    },
+    {
+        "id": "12",
+        "marca": "Corsair",
+        "modelo": "CV550",
+        "caracteristica": "550W 80 Plus Bronze",
+        "precio": "36700",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572560/verzall/img/fuentes/corsair-cv550-550w_p5pklp.png"
+    },
+    {
+        "id": "13",
+        "marca": "Aerocool",
+        "modelo": "Fuente certifdicada",
+        "caracteristica": "850w",
+        "precio": "18500",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572555/verzall/img/fuentes/aerocool-dorado-850w_gzzmok.png"
+    },
+    {
+        "id": "14",
+        "marca": "Corsair",
+        "modelo": "CX750",
+        "caracteristica": "750W, Semimodular 80 plus Silver",
+        "precio": "45000",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572556/verzall/img/fuentes/corsair-cx750m-750w_c79v1y.png"
+    },
+    {
+        "id": "15",
+        "marca": "Generica",
+        "modelo": "500W Pc de Hogar",
+        "caracteristica": "Sin certificacion",
+        "precio": "5000",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572556/verzall/img/fuentes/factory-price-case_dzgxlp.png"
+    },
+    {
+        "id": "16",
+        "marca": "Corsair",
+        "modelo": "VENGEANCE PRO RGB",
+        "caracteristica": "8 GB DDR4 3200MHZ",
+        "precio": "14700",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572536/verzall/img/memorias/corsair-prosl-8gb-3200mhz_nznqsa.png"
+    },
+    {
+        "id": "17",
+        "marca": "Corsair",
+        "modelo": "VENGEANCE PRO RGB",
+        "caracteristica": "4 GB DDR4 1600MHZ",
+        "precio": "7700",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572539/verzall/img/memorias/corsair-vengeance-4gb-ddr-1600mhz_ua8d4h.png"
+    },
+    {
+        "id": "18",
+        "marca": "Crucial",
+        "modelo": "BALLISTIX ",
+        "caracteristica": "8 GB DDR4 3200MHZ",
+        "precio": "10300",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572538/verzall/img/memorias/crucial-ballistix-8gb-ddr4-3200mhz_zk6mo3.png"
+    },
+    {
+        "id": "19",
+        "marca": "Crucial",
+        "modelo": "BALLISTIX ",
+        "caracteristica": "16 GB DDR4 3200MHZ",
+        "precio": "19300",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572538/verzall/img/memorias/crucial-ballistix-8gb-ddr4-3200mhz_zk6mo3.png"
+    },
+    {
+        "id": "20",
+        "marca": "Crucial",
+        "modelo": "NOTEBOOK ",
+        "caracteristica": "4 GB DDR4 2666MHZ",
+        "precio": "6750",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572537/verzall/img/memorias/crucial-sodimm-4gb-ddr4-2666mhz_kuuqm5.png"
+    },
+    {
+        "id": "21",
+        "marca": "Kingston",
+        "modelo": "FURY",
+        "caracteristica": "16 GB DDR5 4800 MHZ",
+        "precio": "17450",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572537/verzall/img/memorias/kingston-fury-16gb-ddr5-4800mhz_wt0moh.png"
+    },
+    {
+        "id": "22",
+        "marca": "Seagate",
+        "modelo": "DISCO RIGIDO 2 TB",
+        "caracteristica": "7000 RPM",
+        "precio": "14750",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572534/verzall/img/almacenamiento/disco-rigido-seagate-2tb_lpboqe.png"
+    },
+    {
+        "id": "23",
+        "marca": "Western Digital",
+        "modelo": "DISCO RIGIDO 1 TB",
+        "caracteristica": "7000 RPM",
+        "precio": "9750",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572535/verzall/img/almacenamiento/disco-rigido-wd-1tb_ahlrcf.png"
+    },
+    {
+        "id": "24",
+        "marca": "Gigabyte",
+        "modelo": "SSD M2",
+        "caracteristica": "NVME 240 GB",
+        "precio": "6750",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572534/verzall/img/almacenamiento/disco-ssd-m2-gigabyte_qsuzke.png"
+    },
+    {
+        "id": "25",
+        "marca": "Gigabyte",
+        "modelo": "RTX 3090",
+        "caracteristica": "16GB VRAM",
+        "precio": "265000",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572545/verzall/img/placasdevideo/gigabyte-rtx3090_onkewz.png"
+    },
+    {
+        "id": "26",
+        "marca": "Afox",
+        "modelo": "RX 580",
+        "caracteristica": "8 GB VRAM",
+        "precio": "60450",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572545/verzall/img/placasdevideo/afox-rx580_tjyphj.png"
+    },
+    {
+        "id": "27",
+        "marca": "Msi",
+        "modelo": "GEFROCE GT710",
+        "caracteristica": "1GB VRAM",
+        "precio": "15500",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572545/verzall/img/placasdevideo/msi-geforcegt710_suavjj.png"
+    },
+    {
+        "id": "28",
+        "marca": "Msi",
+        "modelo": "RTX 3060 TI",
+        "caracteristica": "8 GB VRAM",
+        "precio": "92400",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572546/verzall/img/placasdevideo/msi-rtx3060ti_xlmare.png"
+    },
+    {
+        "id": "29",
+        "marca": "Palit",
+        "modelo": "RTX 1050 TI",
+        "caracteristica": "4 GB VRAM",
+        "precio": "75000",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572546/verzall/img/placasdevideo/palit-gtx1050ti_thszid.png"
+    },
+    {
+        "id": "30",
+        "marca": "Powercolor",
+        "modelo": "RX550",
+        "caracteristica": "4 GB VRAM",
+        "precio": "63100",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572546/verzall/img/placasdevideo/powercolor-rx550_hwwzrg.png"
+    },
+    {
+        "id": "31",
+        "marca": "HyperX",
+        "modelo": "Cloud Alpha",
+        "caracteristica": "7.1",
+        "precio": "12650",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572538/verzall/img/auriculares/hyperx-cloud-alpha-black-red_bzjgye.png"
+    },{
+        "id": "32",
+        "marca": "HyperX",
+        "modelo": "Cloud Stinger",
+        "caracteristica": "Pc - Xbox",
+        "precio": "14400",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572537/verzall/img/auriculares/hyperx-cloud-stinger-xbox_s5bzwf.png"
+    },{
+        "id": "33",
+        "marca": "JBL",
+        "modelo": "Quantum 600",
+        "caracteristica": "Wireless",
+        "precio": "18100",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572544/verzall/img/auriculares/jbl-quantum-600-wireless_wgql9w.png"
+    },{
+        "id": "34",
+        "marca": "Logitech",
+        "modelo": "G733",
+        "caracteristica": "Wireless",
+        "precio": "10680",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572542/verzall/img/auriculares/logitech-g733-blue-wireless_vp11s3.png"
+    },{
+        "id": "35",
+        "marca": "Logitech",
+        "modelo": "Pro X",
+        "caracteristica": "Version LOL",
+        "precio": "23100",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572544/verzall/img/auriculares/logitech-pro-x-lol_oslhpn.png"
+    },{
+        "id": "36",
+        "marca": "Asus",
+        "modelo": "TUF Gaming M3",
+        "caracteristica": "16000 DPI RGB",
+        "precio": "8100",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572542/verzall/img/mouse/asus-tuf-gaming-m3rgb_benojx.png"
+    },{
+        "id": "37",
+        "marca": "HyperX",
+        "modelo": "Pulsefire Core",
+        "caracteristica": "8000 Dpi RGB",
+        "precio": "7340",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572542/verzall/img/mouse/hyperx-pulsefire-core-rgb_b2mazg.png"
+    },{
+        "id": "38",
+        "marca": "Logitech",
+        "modelo": "M90",
+        "caracteristica": "Sendosr Optico",
+        "precio": "4860",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572543/verzall/img/mouse/logitech-m90-optico_iwdffz.png"
+    },{
+        "id": "39",
+        "marca": "Logitech",
+        "modelo": "Super Light Black",
+        "caracteristica": "Wireless",
+        "precio": "9270",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572543/verzall/img/mouse/logitech-gprox-super-light-black_j2j1ff.png"
+    },{
+        "id": "40",
+        "marca": "HyperX",
+        "modelo": "Alloy Core",
+        "caracteristica": "RGB Teclas Multimedia",
+        "precio": "13100",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572553/verzall/img/teclados/hyperx-alloy-core-rgb_h7l9pu.png"
+    },{
+        "id": "41",
+        "marca": "Marvo",
+        "modelo": "KG656",
+        "caracteristica": "Mecanico RGB",
+        "precio": "13400",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572554/verzall/img/teclados/marvo-kg656-led_scnvll.png"
+    },{
+        "id": "42",
+        "marca": "HyperX",
+        "modelo": "Alloy FPS Pro",
+        "caracteristica": "Mecanico, cherry red",
+        "precio": "11400",
+        "imgSrc": "https://res.cloudinary.com/dkn0guenm/image/upload/v1662572553/verzall/img/teclados/hyperx-alloy-fpspro-cherry-red_hgqonx.png"
+    }
+]
