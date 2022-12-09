@@ -1,0 +1,61 @@
+
+.contenedorContactanos {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    textarea{
+        width: 280px;
+        padding-bottom: 20px;
+    }
+    .datosPersonales{
+        padding-top: 50px;
+        padding-bottom: 50px;
+        input{
+            width: 300px;
+            &:focus{
+                background-color: yellow;
+            }
+        }
+        textarea{
+            width: 300px;
+            &:focus{
+                background-color: yellow;
+            }
+        }
+    }
+}
+.selectores{
+    color: white;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+
+.selectoresTexto span{
+    color: white;
+}
+
+.pago{
+    padding-bottom: 30px;
+}
+
+.enviarYReset{
+    display: flex;
+    gap: 30px;
+    padding-bottom: 50px;
+    .send{
+        border-radius: 10px;
+        height: 40px;
+        width: 80px;
+        font-weight: bolder;
+        background-color: black;
+        color: white;
+    }
+    .reset{
+        border-radius: 10px;
+        height: 40px;
+        width: 120px;
+        font-weight: bolder;
+        background-color: black;
+        color: white;
+    }
+}

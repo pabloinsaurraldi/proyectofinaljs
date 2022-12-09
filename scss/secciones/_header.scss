@@ -1,0 +1,40 @@
+.header{
+    .colorHeader{
+        background-image: $fondoHeader;
+    }
+    img{
+        border-radius: 500px;
+        padding: 10px;
+        margin-left: 30px;
+    }
+
+    .nav-link{
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+        font-size: 20px;
+        /* margin-left: 20px; */
+    }   
+
+    .navbar-toggler {
+        img {
+            border-radius: 0;
+            height: 40px;
+            width: 50px;
+            display: flex;
+            border: none;
+        }
+    }
+}
+
+.dropdown-menu{
+    background-color: black;
+    a{
+        color: white;
+    }
+}
+.colorBoton {
+    color: white;
+    font-weight: bold;
+    background-color: black;
+}

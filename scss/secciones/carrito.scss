@@ -1,0 +1,66 @@
+
+.mainDeCarrito{
+    background-image: $fondoMain;
+    height: 100%;
+    padding: 60px;
+    img{
+        height: 80px;
+        width: auto;
+    };
+    tr{
+        th{
+            color: yellow;
+            font-size: 20px;
+        }
+    }
+
+    .totalYCompra{
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 20px;
+        .totalCarrito{
+            color: yellow;
+            font-size: 20px;
+            font-weight: bolder;
+            padding: 10px;
+            padding-left: 60px;
+        }
+    }
+        .botonFinCarrito{
+            color: yellow;
+            background-color: black;
+            width: 150px;
+            height: 50px;
+            border-radius: 10px;
+            &:hover{
+                transform: scale(1,1.2);
+            }
+        }
+
+        .botonEliminar {
+            border: none;
+            background-color: transparent;
+            font-size: 20px;
+            &:hover{
+                transform: scale(0.9);
+            }
+        }
+
+        .cart-quantity {
+            width: 30px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .linkSeguirComprando {
+            text-decoration: none;
+            color: yellow;
+        }
+    
+   
+
+    
+}
+
+

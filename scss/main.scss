@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    height: 100%;
+}
+
+@import './secciones/variables/colores';
+@import './secciones/variables/tipografias';
+@import './secciones/variables/extend';
+@import './secciones/variables/mixin';
+
+@import './secciones/header';
+@import './secciones/mainVarios';
+@import './secciones/footer';
+@import './secciones/main-ubicacion';
+@import './secciones/main-contactanos';
+@import './secciones/carrito.scss';
+@import './secciones/mainComponentes.scss';
+
