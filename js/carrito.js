@@ -57,9 +57,22 @@ const vaciarCarrito = () => {
     document.querySelector('.totalPrecio').innerHTML = ''
 
     alertaVaciar()
-
 }
 
 const btnVaciar = document.querySelector('.btnVaciar')
-btnVaciar.addEventListener('click', vaciarCarrito)
+btnVaciar.addEventListener('click', vaciarCarrito);
+
+
+//Comprar y eliminar productos del carrito
+const limpiarCompra = () => {
+    localStorage.removeItem("carrito")
+    document.querySelector('.tbodyCarrito').innerHTML = ''
+    document.querySelector('.totalPrecio').innerHTML = ''
+
+    alertaComprar()
+}
+
+const btnComprar = document.querySelector('#btnCompra');
+btnComprar.addEventListener('click', limpiarCompra);
+
 

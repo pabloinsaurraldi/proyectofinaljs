@@ -140,13 +140,13 @@
                     <!-- Contenido Carrito -->
                 </tbody>
             </table>
-            <div class="totalYCompra">
+            <div id="cajaBoton" class="totalYCompra">
                 <button id="btnCompra" class="botonFinCarrito">Comprar</button>
                 <button class="botonFinCarrito btnVaciar">Vaciar carrito</button>
                 <button class="botonFinCarrito btnVaciar">
                     <a class="linkSeguirComprando" href="../pages/componentes.html">Seguir comprando</a>
                 </button>
-                <p class="totalCarrito">Total: <span class="totalPrecio"></span></p>
+                <p class="totalCarrito">Total: <span id="precioTotal" class="totalPrecio"></span></p>
             </div>
         </main>
 
@@ -173,6 +173,8 @@
                 </div>
             </div>
         </footer>
+
+        <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
         <script src="../js/carrito.js"></script>
         <script src="../js/alert.js"></script>

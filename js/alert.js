@@ -32,3 +32,14 @@ function alertaVaciar ()  {
         }
     }).showToast()
 }
+
+function alertaComprar () {
+    Swal.fire({
+        position: 'center',
+        icon: 'success',
+        title: 'La compra se ha realizado con exito.',
+        html: 'Verifique su correo electronico para coordinar el retiro y el pago de su compra!!',
+        showConfirmButton: false,
+        timer: 16655500
+      })
+}
